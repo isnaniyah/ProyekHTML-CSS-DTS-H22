@@ -1,9 +1,14 @@
-/* Tablet */
+/* Untuk Tablet */
 @media all and (max-width: 1000px) {
+  .list{
+    margin-bottom:30px;
+  }
 
 }
 
-/* Smartphone */
+/* Untuk Smartphone */
 @media all and (max-width: 670px) {
-    
+  .list{
+    margin-bottom:40px;
+  }
 }
